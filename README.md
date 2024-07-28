@@ -5,7 +5,7 @@ I have recently completed my Graduate Certificate in Data Science and am on trac
 with a strong foundation in data analysis, machine learning, and visualization. I am eager to apply these skills in and to contribute to data-driven decision-making and innovation.
 
 - 🔭 I’m currently working on data science projects for my resume.
-- 🌱 I’m currently learning TesnorFlow & Pytorch.
+- 🌱 I’m currently learning TensorFlow & Pytorch.
 - 👯 I’m looking to collaborate on anything Data related.
 - 🤔 I’m looking for help with Machine Learning and Deep Learning Models.
 - 💬 Ask me about anything lsited above.
