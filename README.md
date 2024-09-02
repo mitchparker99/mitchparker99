@@ -11,7 +11,7 @@ with a strong foundation in data analysis, machine learning, and visualization. 
 - 💬 Ask me about anything lsited above.
 - 📫 How to reach me: https://www.linkedin.com/in/mitchparker99/
 - 😄 Pronouns: he/him.
-- ⚡ Fun fact: I served in the Austrlian Army.
+- ⚡ Fun fact: I served in the Australian Army.
 
 **My skills include** 
 Python, R, SQL, JS
