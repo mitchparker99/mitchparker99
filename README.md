@@ -32,5 +32,4 @@ Git, Kraken
 CRAN, Tidyverse, ggplot2 & Shiny
 
 **Python:** 
-
 Pandas, Numpy, Matplotlib, Scikit-Learn, Seaborn & TensorFlow
