@@ -1,4 +1,4 @@
-Hi there 👋
+*Hi there I'm Mitch 👋*
 
 I am a dedicated and ambitious individual currently residing in Melbourne, actively seeking opportunities as an Intern or Junior Data Scientist/Analyst. 
 I have recently completed my Graduate Certificate in Data Science and am on track to finish my Master's in Data Science by February next year. My academic journey has equipped me 
@@ -13,7 +13,7 @@ with a strong foundation in data analysis, machine learning, and visualization. 
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I served in the Australian Army.
 
-**My skills include** 
+****My skills include****
 Python, R, SQL, JS
 Tableau, PowerBI
 Alteryx
@@ -25,8 +25,7 @@ Hadoop
 Apache Spark
 AWS, Azure
 Kafka, Airflow
-VS, Jupyter, Docker
-Git, Kraken
+
 
 **R:** 
 CRAN, Tidyverse, ggplot2 & Shiny
