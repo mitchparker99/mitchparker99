@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mitch Parker</h1>
-<h3 align="center">Data Scientist | Software Developer | Emerging Tech Enthusiast 🌟</h3>
+<h3 align="center">Data Analyst & Emerging Tech Enthusiast 🌟</h3>
 
 ---
 
