@@ -11,7 +11,7 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="mitchparker99" /></p>
 
-- 🎓 **Education**: Graduate Certificate in Data Science ✅ | Master's in Data Science (on track to graduate February 2025)  
+- 🎓 **Education**: Master's in Information Technology & Graduate Certificate in Data Science ✅
 - 💼 **Seeking Roles**: Data Scientist, Data Engineer, Business Analyst, Software Developer  
 - 🔭 **Current Work**: Building data science projects to showcase my skills.  
 - 🌱 **Learning Goals**: TensorFlow, PyTorch, Advanced Data Engineering tools like Apache Airflow & Kafka.  
