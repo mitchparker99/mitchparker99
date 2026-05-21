@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mitch Parker</h1>
-<h3 align="center">Data Analyst & Emerging Tech Enthusiast 🌟</h3>
+<h1 align="center">Mitchell Parker</h1>
+<h3 align="center">AI Infrastructure & Backend Engineer | CTO | Co-Founder</h3>
 
 ---
 
@@ -9,57 +9,159 @@
 
 ---
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="mitchparker99" /></p>
+## 🎯 About Me
 
-- 🎓 **Education**: Master's in Information Technology & Graduate Certificate in Data Science ✅
-- 💼 **Seeking Roles**: Data Scientist, Data Engineer, Business Analyst, Software Developer  
-- 🔭 **Current Work**: Building data science projects to showcase my skills.  
-- 🌱 **Learning Goals**: TensorFlow, PyTorch, Advanced Data Engineering tools like Apache Airflow & Kafka.  
-- ⚡ **Fun Fact**: I proudly served in the Australian Army.  
-- 📫 **Reach Me**: [LinkedIn](https://www.linkedin.com/in/mitchparker99/)  
+I build **scalable AI infrastructure and data systems** for mission-driven startups in government, healthcare, and fintech. Currently split between:
+- **Head of Growth** @ Early-stage startup (AU)
+- **Lead Data Consultant** @ Growth-stage startup (Dubai)
+- **Founding** AI infrastructure solutions (remote)
 
----
+I'm looking to **co-found** a company focused on **AI infrastructure for government and healthcare**, or serve as **technical co-founder / CTO** for the right team.
 
-<h3 align="left">🌟 Featured Projects:</h3>
-
-- **[🌐 Data Analytics Platform on AWS](#)**  
-  Developed a web-based platform leveraging AWS services for end-to-end data analytics, using EC2, S3, RDS, and CloudWatch.  
-
-- **[📷 Image Caption Generator](#)**  
-  Built a model combining CNNs and RNNs to generate meaningful captions for images. Optimized the architecture to enhance efficiency.  
-
-- **[🎥 Advanced Movie Recommendation System](#)**  
-  Designed a system leveraging content-based and collaborative filtering approaches, with advanced NLP for personalized recommendations.  
-
-- **[📚 Book Recommendation System](#)**  
-  Created a recommendation system to predict user preferences based on ratings and preferences.  
+**Philosophy:** Ideas are worthless without execution. I care about building products that matter, not chasing hype.
 
 ---
 
-<h3 align="left">💻 Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" /> </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40" /> </a>
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/logo/Rlogo.svg" alt="r" width="40" height="40" /> </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40" /> </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40" /> </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40" /> </a>
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://www.tableau.com/themes/custom/tableau_2019/logo.png" alt="tableau" width="40" height="40" /> </a>
+## 🚀 What I Build
+
+**Backend & Infrastructure**
+- Python-first architecture • RESTful & async APIs • Cloud-native systems • Microservices patterns
+
+**AI & Autonomous Systems**
+- Autonomous AI agents • LLM integrations • Prompt engineering & optimization • ML ops & deployment
+
+**Data Systems**
+- Analytics infrastructure • Data pipelines (ETL/ELT) • Real-time processing • Data architecture at scale
+
+**Go-to-Market**
+- Product strategy from zero → product-market fit • Data-driven decision making • Cross-functional leadership
+
+---
+
+## 🌟 Live Products
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| **[DiceWill.com](https://diceWill.com)** | Autonomous AI agent system for decision-making | Python, LLMs, APIs |
+| **[MineMarket.ai](https://MineMarket.ai)** | Data intelligence platform for mining sector | Python, Data pipelines, Analytics |
+| **[sahstudios.com](https://sahstudios.com)** | Consulting portfolio + case studies | Full-stack |
+
+---
+
+## 💼 Background
+
+**Education**
+- M.Sc. Information Technology
+- Graduate Certificate in Data Science
+
+**Experience**
+- COO & Data Architect @ multiple startups
+- Government tender consultant (AU/JP markets)
+- Built and shipped 15+ data/AI projects
+- Worked across: Tech, FMCG, Government, Financial Services, Healthcare, Mining
+
+**Markets**
+- 🇦🇺 Australia (home base)
+- 🇯🇵 Japan (currently based, fluent in Japanese)
+- 🇬🇧 UK (regular collaborations)
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
+  <a href="https://www.sql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sql" width="40" height="40" /> </a>
 </p>
 
+**Backend & Infrastructure**
+- FastAPI • Flask • Django
+- Docker • Kubernetes • CI/CD (GitHub Actions, etc.)
+- PostgreSQL • MongoDB • Redis
+- AWS (EC2, S3, RDS, Lambda) • GCP • Azure
+
+**AI/ML & Data**
+- OpenAI / Claude / Anthropic APIs
+- LangChain • Vector databases
+- Pandas • NumPy • Scikit-learn
+- TensorFlow • PyTorch
+- Airflow • Kafka • dbt
+
+**Data & Visualization**
+- Power BI • Tableau • Plotly
+- Jupyter • Python data visualization libraries
+- Microsoft Purview (data governance)
+
 ---
 
-<h3 align="left">📈 Statistics:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mitchparker99&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="mitchparker99" /></p>
+## 🔗 Open To
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mitchparker99&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff" alt="mitchparker99" /></p>
+✅ **Co-founding** AI infrastructure companies in gov/healthcare  
+✅ **Technical co-founder / CTO** roles (equity-based)  
+✅ **Backend engineering** & data architecture projects  
+✅ **Advisory / fractional CTO** for early-stage teams  
+✅ **Collaborations** on mission-driven tech  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mitchparker99&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="mitchparker99" /></p>
+❌ Not seeking: Traditional employment, freelance gigs, part-time roles
 
 ---
 
-<h3 align="left">📫 Connect with Me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/mitchparker99/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mitchparker99" height="30" width="40" /></a>
+## 📊 Featured Work
+
+### AI Infrastructure for Government/Healthcare
+- Autonomous decision-making systems
+- Secure data pipelines for regulated sectors
+- Real-time analytics for public sector operations
+- Compliance-first architecture (healthcare/gov frameworks)
+
+### Data Architecture at Scale
+- Designed ETL pipelines serving 100k+ daily queries
+- Built analytics infrastructure for multi-market operations
+- Implemented data governance in financial services
+- Created real-time dashboards for mining operations
+
+### API-First Product Development
+- RESTful APIs powering multiple production systems
+- Microservices architecture for scaling teams
+- Third-party integrations (payment, analytics, communication platforms)
+- Rate-limited, authenticated, production-grade APIs
+
+---
+
+## 🌍 Why I'm Different
+
+- **Built & shipped** live products (not just demos)
+- **Cross-market expertise** (AU/JP/UK operations)
+- **Mission-driven** (care about the problem, not just the paycheck)
+- **Execution-focused** (ruthless about shipping)
+- **Fluent in Japanese** (opens Japan-market opportunities)
+- **Wear multiple hats** (technical depth + business acumen)
+
+---
+
+## 📫 Let's Connect
+
+- **LinkedIn:** [linkedin.com/in/mitchparker99](https://www.linkedin.com/in/mitchparker99/)
+- **Portfolio:** [sahstudios.com](https://sahstudios.com)
+- **Interested in co-founding?** Reach out on LinkedIn or via my portfolio
+
+---
+
+## ⚡ Fun Facts
+
+🎸 Musician (guitar, production)  
+☕ Coffee enthusiast (exploring Japanese specialty coffee culture)  
+✈️ Travels regularly between AU/JP/UK (work-life integration, not balance)  
+🎖️ Proudly served in the Australian Army
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mitchparker99&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="mitchparker99" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mitchparker99&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff" alt="mitchparker99" />
 </p>
